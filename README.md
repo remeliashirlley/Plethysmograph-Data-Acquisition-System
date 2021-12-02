@@ -16,8 +16,8 @@ Python script is used to interface between Arduino and VBA. <br />
 
 VBA is used as a medium to store data and allow visualisation of the recorded data in Excel<br /> 
 
-> VBA macros perform the following actions:<br /> 
-- Module1 automatically creates new sheet based on date and time<br /> 
-- Module2 iterates through the data to remove anomalies<br /> 
-- Module3 plots the processed data as a chart for visualization<br /> 
-- Module4 calculates average heart by using the signal peaks as reference<br /> 
+> VBA macros perform the following actions: 
+> - Module1 automatically creates new sheet based on date and time
+> - Module2 iterates through the data to remove anomalies
+> - Module3 plots the processed data as a chart for visualization
+> - Module4 calculates average heart by using the signal peaks as reference
