@@ -9,10 +9,10 @@ The acquired samples of the PPG signal are filtered if required.<br /> <br />
 Plethysmograph signal and time is read from Arduino port by Python script. 
 Python script is used to interface between Arduino and VBA. <br /> 
 
-> Python script performs the following actions:<br /> 
-- Creates empty CSV file<br /> 
-- Takes a total of 500 samples <br /> 
-- Appends data into CSV file<br /> 
+> Python script performs the following actions:
+- Creates empty CSV file
+- Takes a total of 500 samples
+- Appends data into CSV file
 
 VBA is used as a medium to store data and allow visualisation of the recorded data in Excel<br /> 
 
