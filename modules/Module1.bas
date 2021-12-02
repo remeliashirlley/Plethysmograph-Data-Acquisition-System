@@ -39,7 +39,7 @@ Range("B1") = "Blood Pulse Signal Reading"
         .Refresh BackgroundQuery:=False
     End With
     
-Call remove
+'Call remove
 
     
 End Sub
